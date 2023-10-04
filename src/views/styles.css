@@ -1,0 +1,49 @@
+/* Background color */
+body {
+    background-color: #000000;
+  }
+  
+  /* Font Color */
+  body, h1, h2, h3, h4, h5, h6, p, a {
+    color: #fff;
+  }
+  
+  /*Fonts*/
+  body, h1, h2, h3, h4, h5, h6, p, a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /*Link color */
+  a {
+    color: #ffffff;
+  }
+  
+  /*Hover color for links*/
+  a:hover {
+    color: #99ccff;
+  }
+  
+  /*border color for input fields*/
+  input, textarea {
+    border-color: #ccc;
+  }
+  
+  /*background color for input fields*/
+  input, textarea {
+    background-color: #333;
+  }
+  
+  /*Set the font color*/
+  input, textarea {
+    color: #fff;
+  }
+  
+  /*Set the hover color for buttons*/
+  button:hover {
+    background-color: #444;
+  }
+  
+  /*Set the active color for buttons*/
+  button:active {
+    background-color: #222;
+  }
